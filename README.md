@@ -40,7 +40,7 @@ ChatPDF/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ChatPDF.git
+git clone https://github.com/samyakshrma/ChatPDF.git
 cd ChatPDF
 ```
 
